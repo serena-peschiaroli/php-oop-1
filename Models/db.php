@@ -4,7 +4,7 @@ require_once __DIR__ . '/Movie.php';
 
 //creare array dove conservare movie
 
- [];
+$movies = [];
 
 //istanziare ogg movie
 $movies = [ 
