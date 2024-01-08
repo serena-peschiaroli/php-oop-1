@@ -3,9 +3,9 @@
 require_once __DIR__ . '/Models/Movie.php';
 
 $movies = [
-    new Movie("The Human Centipede: First Sequence", "Tom Six", ["Horror"], "2009"),
-    new Movie("The Human Centipede 2 (Full Sequence)", "Tom Six", ["Horror"], "2011"),
-    new Movie("The Human Centipede 3 (Final Sequence)", "Tom Six", ["Horror Comedy"], "2015")
+    new Movie("The Human Centipede: First Sequence", "Tom Six", ["Horror, Splatter"], "2009"),
+    new Movie("The Human Centipede 2 (Full Sequence)", "Tom Six", ["Horror, Splatter"], "2011"),
+    new Movie("The Human Centipede 3 (Final Sequence)", "Tom Six", ["Horror, Splatter, Comedy"], "2015")
 ];
 
 
